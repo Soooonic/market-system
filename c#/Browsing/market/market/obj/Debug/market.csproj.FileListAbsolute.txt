@@ -1,0 +1,12 @@
+C:\Users\aly86\OneDrive\Desktop\market\market\obj\Debug\market.csproj.AssemblyReference.cache
+C:\Users\aly86\OneDrive\Desktop\market\market\obj\Debug\market.csproj.SuggestedBindingRedirects.cache
+C:\Users\aly86\OneDrive\Desktop\market\market\obj\Debug\market.Properties.Resources.resources
+C:\Users\aly86\OneDrive\Desktop\market\market\obj\Debug\market.signUP.resources
+C:\Users\aly86\OneDrive\Desktop\market\market\obj\Debug\market.csproj.GenerateResource.cache
+C:\Users\aly86\OneDrive\Desktop\market\market\obj\Debug\market.csproj.CoreCompileInputs.cache
+C:\Users\aly86\OneDrive\Desktop\market\market\bin\Debug\market.exe.config
+C:\Users\aly86\OneDrive\Desktop\market\market\bin\Debug\market.exe
+C:\Users\aly86\OneDrive\Desktop\market\market\bin\Debug\market.pdb
+C:\Users\aly86\OneDrive\Desktop\market\market\obj\Debug\market.exe
+C:\Users\aly86\OneDrive\Desktop\market\market\obj\Debug\market.pdb
+C:\Users\aly86\OneDrive\Desktop\market\market\obj\Debug\market.Browsing.resources
